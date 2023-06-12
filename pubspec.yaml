@@ -10,6 +10,7 @@ dependencies:
   flutter:
     sdk: flutter
   flutter_riverpod: ^2.3.6
+  http: ^1.0.0
   riverpod: ^2.3.6
 
 dev_dependencies:
